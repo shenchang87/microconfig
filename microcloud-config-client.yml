@@ -14,7 +14,7 @@ spring:
 eureka:
  client:
   serviceUrl:
-    defaultZone: http://admin:enjoy@localhost:7301/eureka
+    defaultZone: http://admin:enjoy@localhost:7001/eureka
   register-with-eureka: false
 
 info:
@@ -32,7 +32,7 @@ spring:
 eureka:
  client:
   serviceUrl:
-    defaultZone: http://admin:enjoy@localhost:7301/eureka
+    defaultZone: http://admin:enjoy@localhost:7001/eureka
   register-with-eureka: false
   
 info:
