@@ -9,8 +9,7 @@ server:
 spring:
   profiles: dev
   application:
-      name: microconfig-test-clientxxxx2222xxx
-
+      name: microconfig-test-client5abcs    
 eureka:
  client:
   serviceUrl:
